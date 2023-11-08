@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "gi9bkpdCq3hHr4Vq/cvElmnd2OamHwYVHI0bn52eXQs=",
+  "Source": "LearningMissionLabsAPI",
+  "BasePath": "_content/LearningMissionLabsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LearningMissionLabsAPI\\wwwroot",
+      "Source": "LearningMissionLabsAPI",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\",
+      "BasePath": "_content/LearningMissionLabsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\Images\\LML.png",
+      "SourceId": "LearningMissionLabsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\",
+      "BasePath": "_content/LearningMissionLabsAPI",
+      "RelativePath": "Images/LML.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\LML.png"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\Images\\Screenshot (42).png",
+      "SourceId": "LearningMissionLabsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\",
+      "BasePath": "_content/LearningMissionLabsAPI",
+      "RelativePath": "Images/Screenshot (42).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Screenshot (42).png"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\Images\\Screenshot (46).png",
+      "SourceId": "LearningMissionLabsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\",
+      "BasePath": "_content/LearningMissionLabsAPI",
+      "RelativePath": "Images/Screenshot (46).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Screenshot (46).png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 99%;
+}
+
+.navbar {
+  background: linear-gradient(to right, rgb(86, 82, 142), rgb(124, 116, 160), rgba(135, 139, 163, 0.9));
+}
+
+.box-shadow {
+  box-shadow: 0 0.25rem 15rem rgba(34, 36, 157, 0.8);
+}

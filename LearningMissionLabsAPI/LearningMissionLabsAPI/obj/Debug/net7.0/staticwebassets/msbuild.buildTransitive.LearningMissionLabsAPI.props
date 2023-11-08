@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LearningMissionLabsAPI.props" />
+</Project>

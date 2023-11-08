@@ -1,0 +1,37 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+body {
+  background: linear-gradient(to bottom, rgb(135, 139, 163), rgb(126, 123, 168), rgb(163, 161, 187));
+}
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+.welcome{
+    margin-bottom:50px;
+    text-align:center;
+}
+.fRed{
+    color:red;
+}
+.txt-ctr{
+    text-align:center;
+}
+
+#gradient {
+    background: #ff0000;
+    background: linear-gradient(to right, rgb(218, 200, 218), #1861ac);
+    width: 100%;
+    height: 200px;
+    border: 1px solid #333;
+}
+.color_test{
+  background: linear-gradient(to bottom, rgb(211, 145, 0), rgb(188, 244, 4), rgb(80, 231, 20));
+}

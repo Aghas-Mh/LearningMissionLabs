@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\bin\Debug\net7.0\LearningMissionLabs.DAL.deps.json
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\bin\Debug\net7.0\LearningMissionLabs.DAL.runtimeconfig.json
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\bin\Debug\net7.0\LearningMissionLabs.DAL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\bin\Debug\net7.0\LearningMissionLabs.DAL.pdb
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.AssemblyInfo.cs
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\refint\LearningMissionLabs.DAL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.pdb
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\LearningMissionLabs.DAL.genruntimeconfig.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.DAL\obj\Debug\net7.0\ref\LearningMissionLabs.DAL.dll

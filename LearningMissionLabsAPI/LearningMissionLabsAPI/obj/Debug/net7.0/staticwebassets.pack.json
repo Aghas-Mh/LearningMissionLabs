@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\Images\\LML.png",
+      "PackagePath": "staticwebassets\\Images\\LML.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\Images\\Screenshot (42).png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot (42).png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\LearningMissionLabs\\LearningMissionLabsAPI\\LearningMissionLabsAPI\\wwwroot\\Images\\Screenshot (46).png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot (46).png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LearningMissionLabsAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LearningMissionLabsAPI.props",
+      "PackagePath": "build\\LearningMissionLabsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LearningMissionLabsAPI.props",
+      "PackagePath": "buildMultiTargeting\\LearningMissionLabsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LearningMissionLabsAPI.props",
+      "PackagePath": "buildTransitive\\LearningMissionLabsAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

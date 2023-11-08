@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.AssemblyInfo.cs
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\bin\Debug\net7.0\LearningMissionLabs.BLL.deps.json
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\bin\Debug\net7.0\LearningMissionLabs.BLL.runtimeconfig.json
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\bin\Debug\net7.0\LearningMissionLabs.BLL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\bin\Debug\net7.0\LearningMissionLabs.BLL.pdb
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\bin\Debug\net7.0\LearningMissionLabs.DAL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\bin\Debug\net7.0\LearningMissionLabs.DAL.pdb
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.csproj.CopyComplete
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\refint\LearningMissionLabs.BLL.dll
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.pdb
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\LearningMissionLabs.BLL.genruntimeconfig.cache
+C:\Users\PC\Desktop\LearningMissionLabs\LearningMissionLabsAPI\LearningMissionLabs.BLL\obj\Debug\net7.0\ref\LearningMissionLabs.BLL.dll
